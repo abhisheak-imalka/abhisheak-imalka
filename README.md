@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhisheak Imalka</h1>
 <h3 align="center">Studying Instrumentation and Automation Technology with a focus on Information Technology. Passionate about leveraging technology to optimize processes and drive efficiency</h3>
 
-- 🔭 I’m currently working on **Robotics projects**
+- 🔭 
 
-- 🌱 I’m currently learning **MERN,Matlab Automation and eltronics related subjects**
+- 🌱 I’m currently learning **MERN,Matlab Automation  eltronics and IOT devices**
 
 - 📫 How to reach me **abisheakb2k@gmail,com**
 
